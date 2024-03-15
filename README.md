@@ -33,4 +33,4 @@ Feedback and contributions are welcome! If you have any suggestions for improvin
 
 ## License
 
-This project is licensed under the MIT License - see the (LICENSE) file for details.
+This project is licensed under the MIT License - see the https://opensource.org/licenses/MIT.
